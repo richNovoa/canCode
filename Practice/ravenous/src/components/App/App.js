@@ -6,7 +6,7 @@ import BusinessList from '../BusinessList/BusinessList.css';
 class App extends React.Component {
   render() {
   return (
-    <div className="App">
+    <div className="App" id="App">
   <h1>ravenous</h1>
   <SearchBar />
   <BusinessList />
