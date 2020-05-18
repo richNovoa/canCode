@@ -1,2 +1,0 @@
-# canCode
-Practice Repository
